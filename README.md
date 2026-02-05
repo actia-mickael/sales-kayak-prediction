@@ -71,7 +71,7 @@ Top 5 des destinations recommandées selon le score combiné (météo + hôtels)
 | 1    | ...         | ...         | ...          |
 | 2    | ...         | ...         | ...          |
 
-> *A Compléter*
+> *A-Compléter*
 
 ## 📝 License
 
