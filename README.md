@@ -7,6 +7,8 @@
 
 Dashboard de prédiction de probabilité de commande client avec intégration météo en temps réel.
 
+![Sxreen shot API](images/Scr_shot_API.png)
+
 ![Dashboard Preview](https://img.shields.io/badge/Status-Production-brightgreen)
 
 ## 🎯 Fonctionnalités
