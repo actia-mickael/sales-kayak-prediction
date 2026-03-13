@@ -1,8 +1,17 @@
-.env
-*.env
+# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-.vscode/
+
+# Modèles ML
+*.bin
+*.pt
+*.pth
+*.h5
+*.safetensors
+
+# Données volumineuses
 *.csv
+*.parquet
+data/
 ZZ-Archives/
